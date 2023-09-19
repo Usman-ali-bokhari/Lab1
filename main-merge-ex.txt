@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feifedefjefiejfief oefkeokfe
+=======
+dedededededededede
+>>>>>>> conflict
